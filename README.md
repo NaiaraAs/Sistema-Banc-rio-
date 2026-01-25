@@ -1,18 +1,37 @@
-## Getting Started
+# Exercícios de Treinamento: Lógica e POO com Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório serve como um portfólio e demonstração das minhas habilidades práticas em **Java**, desenvolvidas durante o meu curso técnico. Ele agrupa uma série de exercícios e desafios focados em consolidar o raciocínio lógico, a sintaxe da linguagem e os pilares da programação orientada a objetos.
 
-## Folder Structure
+🚀 **Tecnologias Utilizadas**
 
-The workspace contains two folders by default, where:
+As principais ferramentas e conceitos aplicados nestes projetos são:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+*   **Java:** Linguagem principal utilizada para o desenvolvimento da lógica.
+*   **JDK (Java Development Kit):** Ambiente para compilação e execução dos códigos.
+*   **Lógica de Programação:** Aplicação de algoritmos para resolução de problemas.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+✨ **Destaques e Habilidades Demonstradas**
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Através destes exercícios, demonstro competências em:
 
-## Dependency Management
+*   **Fundamentos de Java:** Manipulação de variáveis, tipos primitivos e operadores aritméticos/lógicos.
+*   **Estruturas de Controle:** Uso de condicionais (`if/else`, `switch`) e laços de repetição (`for`, `while`) para controle de fluxo.
+*   **Programação Orientada a Objetos (POO):** Criação e estruturação de classes, métodos, atributos e conceitos de encapsulamento.
+*   **Entrada e Saída de Dados:** Interação com o usuário via console utilizando a classe `Scanner`.
+*   **Organização de Código:** Estruturação de pacotes e classes para manter o projeto legível e modular.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+📁 **Projetos e Exercícios Incluídos**
+
+Alguns dos tópicos explorados neste repositório incluem:
+
+*   **Sistemas de Cálculo:** Exercícios de matemática aplicada e conversores de medidas.
+*   **Controle de Fluxo:** Desafios de verificação de maioridade, cálculo de médias e sistemas de notas.
+*   **Simulações de Cadastro:** Pequenos sistemas para gerenciar objetos como "Carro", "Conta Bancária" ou "Pessoa".
+*   **Listas e Arrays:** Armazenamento e manipulação de conjuntos de dados.
+
+📞 **Contato**
+
+Fique à vontade para explorar os códigos e fornecer feedback. Você pode me encontrar através dos seguintes canais:
+
+*   **GitHub:** [NaiaraAs](https://github.com)
+*   **E-mail:** [alvesnaiara502@gmail.com](mailto:alvesnaiara502@gmail.com)
